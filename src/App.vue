@@ -7,6 +7,8 @@
    <router-link to="/login">Login</router-link> |
    <router-link to="/logout">Logout</router-link>
  </nav>
+ <div class="p-4 bg-blue-500 text-white"> Hello, Tailwind CSS! </div>
+
  <router-view/> 
 
  
